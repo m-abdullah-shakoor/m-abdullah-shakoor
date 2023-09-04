@@ -83,6 +83,24 @@ Looking forward to connecting with you and embarking on this exciting journey to
 
 <img src="me-5.png" width=""/>
 
+<div style="overflow: hidden; background-color:; padding: 10px; margin-left: 190px;  margin-right: 190px;">
+  <div style="white-space: nowrap; font-size: 24px; color: ; position: relative; animation: marquee 10s linear infinite; padding-right: 100%;">
+    See ya Next Time! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
+</div>
+
+<style>
+  @keyframes marquee {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+</style>
+
+
 </div>
 
 
