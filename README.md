@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="me-3.png" width="100"/>
-
+</br>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
