@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/NytMLKyiaIh6VH9SPm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm"></a></p>
+  <img src="https://giphy.com/gifs/happy-greetings-siri-HhgvvfC3PL6T23TYmB" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
