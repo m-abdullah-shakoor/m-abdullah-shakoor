@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="spawn-.jpg" width="100"/>
+  <img src="hi.png" width="100"/>
 </br>
 </div>
 
 <div align="center">
-  <h1>Glad to see you here! 👋</h1>
+  <h1>Glad to see you here!</h1>
 </div>
 
 <div align="center">
