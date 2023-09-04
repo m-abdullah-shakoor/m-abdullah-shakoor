@@ -18,6 +18,11 @@
 <div align="center">
   <h1>Glad to see you here! 👋</h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
 
 Hey there, tech enthusiasts! I'm [Your Name], your AI and Machine Learning aficionado, and I'm excited to welcome you to my GitHub journey. 🤖🚀
 
@@ -33,14 +38,13 @@ So, whether you're a seasoned AI wizard or just beginning your journey into the 
 
 Looking forward to connecting with you and embarking on this exciting journey together!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 ---
 
 <div>
-:woman_technologist: About Me : 
+
+### :man_technologist: About Me : 
  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -71,27 +75,6 @@ Looking forward to connecting with you and embarking on this exciting journey to
 </div>
 
 ---
-
-
-- 🔭 I’m currently working on **XYZ**
-
-- 🌱 I’m currently learning **OD**
-
-- 👯 I’m looking to collaborate on **GO**
-
-- 🤝 I’m looking for help with **OF**
-
-- 👨‍💻 All of my projects are available at [ofdogg](ofdogg)
-
-- 📝 I regularly write articles on [dof](dof)
-
-- 💬 Ask me about **OPS**
-
-- 📫 How to reach me **sod**
-
-- 📄 Know about my experiences [cogn](cogn)
-
-- ⚡ Fun fact **cogn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
