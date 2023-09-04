@@ -16,7 +16,7 @@
 
 ---
 
-Hey there, tech enthusiasts! I'm [Your Name], your AI and Machine Learning aficionado, and I'm excited to welcome you to my GitHub journey. 🤖🚀
+Hey there, tech enthusiasts! I'm Abdullah, your AI and Machine Learning aficionado, and I'm excited to welcome you to my GitHub journey. 🤖🚀
 
 In this digital realm, I'm on a thrilling adventure into the captivating worlds of Artificial Intelligence, Machine Learning, and Data Science. With a passion for transforming data into valuable insights, I'm constantly honing my skills and unraveling the mysteries of the AI universe.
 
