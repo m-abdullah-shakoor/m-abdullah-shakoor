@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/happy-greetings-siri-HhgvvfC3PL6T23TYmB" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -14,10 +15,23 @@
   </br>
   <img src="https://komarev.com/ghpvc/?username=m-abdullah-shakoor&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align="center">
+  <h1>Glad to see you here! 👋</h1>
+</div>
+
+Hey there, tech enthusiasts! I'm [Your Name], your AI and Machine Learning aficionado, and I'm excited to welcome you to my GitHub journey. 🤖🚀
+
+In this digital realm, I'm on a thrilling adventure into the captivating worlds of Artificial Intelligence, Machine Learning, and Data Science. With a passion for transforming data into valuable insights, I'm constantly honing my skills and unraveling the mysteries of the AI universe.
+
+My GitHub journey is all about the art of crafting intelligent systems. 🎨✨ I'm deeply fascinated by the magic of building AI that can create art, tell stories, and even conjure new realities. When I'm not designing neural networks, you might find me immersed in the fascinating realm of Natural Language Processing, teaching machines the nuances of human expression.
+
+Python is my trusty wand, and React is my spell for crafting interactive interfaces that seamlessly blend technology and user experience. To me, AI isn't just about algorithms and models; it's about crafting experiences that border on the realm of magic for users.
+
+Beyond the digital canvas, you'll often discover me engrossed in the pages of a thought-provoking sci-fi novel or engaging in lively discussions about the ethical implications of AI over a cup of freshly brewed coffee. I firmly believe that curiosity has no limits, and I'm always eager to learn, collaborate, and share knowledge with fellow explorers in the AI landscape.
+
+So, whether you're a seasoned AI wizard or just beginning your journey into the world of AI and ML, join me on this captivating adventure of code, creativity, and curiosity. Feel free to explore my projects, share your insights, and let's spark engaging conversations about the limitless possibilities that AI, ML, and Data Science bring to our world. 🌌📚🔬
+
+Looking forward to connecting with you and embarking on this exciting journey together!
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
