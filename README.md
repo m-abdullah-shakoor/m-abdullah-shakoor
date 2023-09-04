@@ -31,7 +31,7 @@ Looking forward to connecting with you and embarking on this exciting journey to
 
 ---
 <div align="center">
-<h2 align="left"> Reach me out</h2>
+<h2 align="left"> Reach me out ✌</h2>
 <div align="center">
 <a href="https://linkedin.com/in/muhammad-abdullah-shakoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-abdullah-shakoor" height="30" width="40" /></a>
 <a href="https://twitter.com/abd__20__01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abd__20__01" height="30" width="40" /></a>
@@ -41,6 +41,7 @@ Looking forward to connecting with you and embarking on this exciting journey to
 <a href="https://kaggle.com/mabdullahshakoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mabdullahshakoor" height="30" width="40" /></a>
 <a href="https://medium.com/@abdullahshakoor1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdullahshakoor1000" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdullahshakoor1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdullahshakoor1" height="30" width="40" /></a>
+<a href="https://dev.to/mabdullahshakoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mabdullahshakoor" height="30" width="40" /></a>
 </div>
 
 ---
