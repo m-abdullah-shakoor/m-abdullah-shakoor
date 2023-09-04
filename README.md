@@ -32,10 +32,8 @@ Looking forward to connecting with you and embarking on this exciting journey to
 
 ---
 
-<h3 align="left"> Connect with me:</h3>
-
+<h2 align="left"> Connect with me:</h2>
 <div align="left">
-
 <a href="https://linkedin.com/in/muhammad-abdullah-shakoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-abdullah-shakoor" height="30" width="40" /></a>
 <a href="https://twitter.com/abd__20__01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abd__20__01" height="30" width="40" /></a>
 <a href="https://instagram.com/being_abd_allah_20_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="being_abd_allah_20_01" height="30" width="40" /></a>
