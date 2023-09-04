@@ -179,6 +179,3 @@ Looking forward to connecting with you and embarking on this exciting journey to
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=m-abdullah-shakoor&icon=2&color=0)](https://visitcount.itsvg.in)
