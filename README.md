@@ -99,7 +99,7 @@ Looking forward to connecting with you and embarking on this exciting journey to
 ![](https://github-profile-trophy.vercel.app/?username=m-abdullah-shakoor&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
+### <img src="trophy.png" width="60"/> Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=m-abdullah-shakoor&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
