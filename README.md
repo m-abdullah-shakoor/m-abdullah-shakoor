@@ -7,11 +7,6 @@
 <h1>Glad to see you here!</h1>
 
 </div>
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 <div>
 
 Hey Tech Enthusiasts! I'm Abdullah, your AI and Machine Learning aficionado, and I'm excited to welcome ya'll to my Tech-driven journey. 🤖🚀
@@ -80,6 +75,14 @@ Looking forward to connecting with you and embarking on this exciting journey to
 # <p align="left"> <img src="trophy.png" width="60"/> Top Contributed Repo <p>
 ![](https://github-contributor-stats.vercel.app/api?username=m-abdullah-shakoor&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+
+<div align="center">
+
+# <p align="left"> <img src="takeaway.png" width="60"/> A Random Takeaway <p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 <div align="center">
 
