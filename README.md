@@ -33,7 +33,7 @@ Looking forward to connecting with you and embarking on this exciting journey to
 <div align="center">
 <h2 align="left"> Reach me out ✌</h2>
 <div align="center">
-<a href="https://linkedin.com/in/muhammad-abdullah-shakoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-abdullah-shakoor" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-abdullah-shakoor" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-abdullah-shakoor" height="30" width="40" /></a>
 <a href="https://twitter.com/abd__20__01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abd__20__01" height="30" width="40" /></a>
 <a href="https://instagram.com/being_abd_allah_20_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="being_abd_allah_20_01" height="30" width="40" /></a>
 <a href="https://codepen.io/m-abdullah-shakoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="m-abdullah-shakoor" height="30" width="40" /></a>
