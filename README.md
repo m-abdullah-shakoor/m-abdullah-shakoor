@@ -105,5 +105,6 @@ Looking forward to connecting with you and embarking on this exciting journey to
 
 </div> -->
 <div align="center">
-<img src="cheers.png" width=""/>
+<p style = "margin-top:75px; margin-bottom: -30px">See Ya Next Time!</p>
+<img src="cheers.png" width="300"/>
 </div>
