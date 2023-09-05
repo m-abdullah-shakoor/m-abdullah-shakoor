@@ -84,6 +84,7 @@ Looking forward to connecting with you and embarking on this exciting journey to
 
 </div>
 
+<!-- 
 <div style="overflow: hidden; background-color:; padding: 10px; margin-left: 190px;  margin-right: 190px;">
   <div style="white-space: nowrap; font-size: 24px; color: ; position: relative; animation: marquee 10s linear infinite; padding-right: 100%;">
     See ya Next Time! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -101,9 +102,7 @@ Looking forward to connecting with you and embarking on this exciting journey to
 </style>
 
 
-</div>
-
-
+</div> -->
 <div align="center">
 <img src="cheers.png" width=""/>
 </div>
