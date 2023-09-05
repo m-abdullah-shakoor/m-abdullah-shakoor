@@ -7,7 +7,7 @@
 <h1>Glad to see you here!</h1>
 
 </div>
-<div>
+<div align="justify">
 
 Hey Tech Enthusiasts! I'm Abdullah, your AI and Machine Learning aficionado, and I'm excited to welcome ya'll to my Tech-driven journey. 🤖🚀
 
@@ -105,6 +105,6 @@ Looking forward to connecting with you and embarking on this exciting journey to
 
 </div> -->
 <div align="center">
-<p style = "margin-top:75px; margin-bottom: -30px">See Ya Next Time!</p>
+<!-- <p style = "margin-top:75px; margin-bottom: -30px">See Ya Next Time!</p> -->
 <img src="cheers.png" width="300"/>
 </div>
