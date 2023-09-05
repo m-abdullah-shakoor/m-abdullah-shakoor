@@ -56,11 +56,12 @@ Looking forward to connecting with you and embarking on this exciting journey to
 
 ---
 
-# <p align="left"> <img src="stats.png" width="60"/> GitHub Stats <p>
+# <p align="left"> <img src="stats.png" width="60"/> GitHub Stats </p>
 
  <div align="">
  
  ![](https://github-readme-stats.vercel.app/api?username=m-abdullah-shakoor&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m-abdullah-shakoor&theme=vision-friendly-dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-abdullah-shakoor&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -68,17 +69,17 @@ Looking forward to connecting with you and embarking on this exciting journey to
  </div>
  
 
-# <p align="left"> <img src="spawn-.jpg" width="60"/>  GitHub Trophies <p>
+# <p align="left"> <img src="spawn-.jpg" width="60"/>  GitHub Trophies</p>
 ![](https://github-profile-trophy.vercel.app/?username=m-abdullah-shakoor&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-# <p align="left"> <img src="trophy.png" width="60"/> Top Contributed Repo <p>
+# <p align="left"> <img src="trophy.png" width="60"/> Top Contributed Repo </p>
 ![](https://github-contributor-stats.vercel.app/api?username=m-abdullah-shakoor&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 <div align="center">
 
-# <p align="left"> <img src="takeaway.png" width="60"/> A Random Takeaway <p>
+# <p align="left"> <img src="takeaway.png" width="60"/> A Random Takeaway </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
