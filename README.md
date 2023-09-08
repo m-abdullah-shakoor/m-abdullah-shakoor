@@ -87,7 +87,7 @@ Looking forward to connecting with you and embarking on this exciting venture to
 </div>
 <div align="center">
 
-## <marquee behavior="scroll" direction="left" scrollamount="5" style="margin-bottom: -70px; margin-left: 250px; margin-right: 100px; color: gray;">
+ <marquee behavior="scroll" direction="left" scrollamount="5" style="margin-bottom: -70px; margin-left: 250px; margin-right: 100px; color: gray;">
   See Ya Next Time!
 </marquee>
 
