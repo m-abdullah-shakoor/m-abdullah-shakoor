@@ -60,11 +60,11 @@ Looking forward to connecting with you and embarking on this exciting journey to
 
  <div align="">
  
- ![](https://github-readme-stats.vercel.app/api?username=m-abdullah-shakoor&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ ![](https://github-readme-stats-ma-s-git-master-m-abdullah-shakoor.vercel.app/api?username=m-abdullah-shakoor&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m-abdullah-shakoor&theme=vision-friendly-dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-abdullah-shakoor&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-ma-s-git-master-m-abdullah-shakoor.vercel.app/api/top-langs/?username=m-abdullah-shakoor&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
  </div>
  
