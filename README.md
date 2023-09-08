@@ -26,7 +26,8 @@ Looking forward to connecting with you and embarking on this exciting venture to
 
 ---
 <div align="center">
-<h2 align="left"> Reach me out ✌</h2>
+
+## <p align="left"><img src="reach_me.png" width="60"/>Reach me out </p>
 <div align="center">
 <a href="https://linkedin.com/in/muhammad-abdullah-shakoor" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-abdullah-shakoor" height="30" width="40" /></a>
 <a href="https://twitter.com/abd__20__01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abd__20__01" height="30" width="40" /></a>
@@ -84,27 +85,12 @@ Looking forward to connecting with you and embarking on this exciting venture to
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
-<!-- 
-<div style="overflow: hidden; background-color:; padding: 10px; margin-left: 190px;  margin-right: 190px;">
-  <div style="white-space: nowrap; font-size: 24px; color: ; position: relative; animation: marquee 10s linear infinite; padding-right: 100%;">
-    See ya Next Time! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </div>
-</div>
-<style>
-  @keyframes marquee {
-    0% {
-      transform: translateX(100%);
-    }
-    100% {
-      transform: translateX(-100%);
-    }
-  }
-</style>
-
-
-</div> -->
 <div align="center">
-<!-- <p style = "margin-top:75px; margin-bottom: -30px">See Ya Next Time!</p> -->
+
+## <marquee behavior="scroll" direction="left" scrollamount="5" style="margin-bottom: -70px; margin-left: 250px; margin-right: 100px; color: gray;">
+  See Ya Next Time!
+</marquee>
+
+
 <img src="cheers.png" width="300"/>
 </div>
