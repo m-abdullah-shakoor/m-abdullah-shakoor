@@ -15,8 +15,6 @@ Amid the digital dimension, I'm venturing into the enthralling realms of Artific
 
 My GitHub journey is all about the art of crafting intelligent systems. I'm utterly fascinated by the mastery of building of AI that can create masterpieces, tell stories, and even conjure new realities. You might find me immersed in the fascinating world of Machine Learning, teaching machines the art of learning and human naunces.  
 
-Python is my go-to tool, and React is my magic spell for creating interactive user interfaces that meld technology and UX. Artificial intelligence (“AI”) in my opinion, is about more than simply algorithms and models; it's about giving people the interactions that feel almost enchanted. 
-
 Beyond the digital canvas, you'll often discover me engrossed in the pages of a thought-provoking sci-fi or mystic novel or engaged in theological discourse over a cup of tea coz "There's no Life with no purpose". 
 I firmly believe that curiosity possesses no bounds, and I'm always eager to learn, collaborate, and share knowledge with fellow adventurers in the AI Megaverse!
 
