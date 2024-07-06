@@ -91,5 +91,5 @@ Looking forward to connecting with you and embarking on this exciting venture to
   See Ya Next Time!
 </marquee> -->
 
-<img src="cheers.png" width="250"/>
+<img src="Salam.png" width="250"/>
 </div>
